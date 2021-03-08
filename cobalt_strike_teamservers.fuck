@@ -474,7 +474,6 @@
 "https://5.149.252.155:8443","Found","True","8443","rizalcolder.com,/sitemap.js","/ee","Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; RM-1152) AppleWebKit/537.36 (KHTML, like Gecko)","0","32"
 "https://87.118.122.70:8443","Found","True","8443","crm.avalanchecapital.de,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","749845244","32"
 "https://87.118.123.70:8443","Found","True","8443","crm.avalanchecapital.de,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","749845244","32"
-"host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
 "https://45.141.84.34:443","Found","True","443","lodidy.com,/ce.js","/dhl","Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0","1359593325","32"
 "https://45.141.84.49:443","Found","True","443","taekvondo.com,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","16777216","32"
 "https://45.141.84.63:443","Found","True","443","pilizz.com,/fam_calendar","/profile","Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202","1359593325","32"
