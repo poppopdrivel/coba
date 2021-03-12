@@ -1,0 +1,6 @@
+"host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
+"https://192.111.151.154:443","Found","True","443","wingsst.com,/bg.css","/RELEASE_NOTES","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246","1580103814","32"
+"https://194.26.29.226:443","Found","True","443","ptambi.com,/rn.js","/RELEASE_NOTES","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246","1359593325","32"
+"https://23.106.160.218:443","Found","True","443","wingsst.com,/bg.css","/RELEASE_NOTES","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246","1580103814","32"
+"https://45.141.84.190","Found","True","443","smadst.com,/RELEASE_NOTES","/btn_bg","Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202","16777216","32"
+"https://45.141.84.190:443","Found","True","443","smadst.com,/RELEASE_NOTES","/btn_bg","Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202","16777216","32"
