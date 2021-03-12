@@ -1,0 +1,3 @@
+"host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
+"http://95.217.1.81:80","Found","False","80","95.217.1.81,/maps/overlaybfpr","/fd/ls/lsp.aspx","Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)","0","32"
+"https://64.69.57.220:443","Found","True","443","city-announcements.us,/maps/overlaybfpr","/fd/ls/lsp.aspx","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36","148646545","32"
