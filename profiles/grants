@@ -1,0 +1,4 @@
+"host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
+"https://35.158.226.16:443","Found","True","443","rijkzijn.nl,/vlk/grants,uwprivatebank.nl,/vlk/grants,systest.nl,/vlk/grants","/vlk/xmlrpc/v2","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","1748429673","32"
+"https://52.28.253.50:443","Found","True","443","rijkzijn.nl,/vlk/grants,uwprivatebank.nl,/vlk/grants,systest.nl,/vlk/grants","/vlk/xmlrpc/v2","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","1748429673","32"
+"https://52.59.168.192:443","Found","True","443","rijkzijn.nl,/vlk/grants,uwprivatebank.nl,/vlk/grants,systest.nl,/vlk/grants","/vlk/xmlrpc/v2","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","1748429673","32"
