@@ -1,4 +1,11 @@
 host,result,ssl,port,.http-get.uri,.http-post.uri,.user-agent,.watermark,bits
+"http://172.106.86.22:80","Found","False","80","172.106.86.22,/visit.js","/submit.php","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)","0","32"
+"http://45.138.172.51:80","Found","False","80","tonbits.com,/mk","/links","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36","1580103814","32"
+"http://74.118.138.139:80","Found","False","80","touchroof.com,/modcp,focuslex.com,/modcp","/posting","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36","1580103814","32"
+"http://88.119.171.78:80","Found","False","80","104.28.13.169,/image/,172.67.184.242,/image/","/history/","Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0)","305419896","32"
+"https://172.106.86.22:443","Found","True","443","172.106.86.22,/match","/submit.php","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)","0","32"
+"https://45.138.172.51:443","Found","True","443","tonbits.com,/mk","/links","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36","1580103814","32"
+"https://74.118.138.139:443","Found","True","443","touchroof.com,/modcp,focuslex.com,/modcp","/posting","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36","1580103814","32"
 "https://108.160.136.182:8080","Found","True","8080","108.160.136.182,/_/scs/mail-static/_/js/","/mail/u/0/","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1)","305419896","32"
 "https://37.1.215.253:8080","Found","True","8080","lightingfastnetsolutions.com,/kj.css,37.1.215.253,/kj.css","/aa","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36","1359593325","32"
 "https://45.134.169.75:8080","Found","True","8080","45.134.169.75,/ptj","/submit.php","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)","305419896","32"
