@@ -1,4 +1,5 @@
 "host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
+"https://time.updateeset.com:443","Found","True","443","time.updateeset.com,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","939169972","32"
 "https://194.26.29.242:443","Found","True","443","culunk.com,/bm","/common","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246","1359593325","32"
 "https://5.34.179.35:443","Found","True","443","borincol.com,/ur.html","/fam_newspaper","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36","0","32"
 "https://5.34.179.36:443","Found","True","443","rocoml.com,/modcp.js","/ce","Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; RM-1152) AppleWebKit/537.36 (KHTML, like Gecko)","0","32"
