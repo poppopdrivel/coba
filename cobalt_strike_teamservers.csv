@@ -1,4 +1,7 @@
 "host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
+"https://176.123.8.228:443","Found","True","443","176.123.8.228,/__utm.gif","/___utm.gif","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; BO1IE8_v1;ENUS)","305419896","32"
+"https://45.142.214.107:443","Found","True","443","taekvondo.com,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","16777216","32"
+"https://5.39.221.60:443","Found","True","443","5.39.221.60,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books","/N4215/adj/amzn.us.sr.aps","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","305419896","32"
 "https://194.26.29.149:443","Found","True","443","bacynx.com,/ch.js","/cs","Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0","1359593325","32"
 "https://cometausa-netstar.com:443","Found","True","443","cometausa-netstar.com,/fam_cart","/bm","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","0","32"
 "https://culunk.com:443","Found","True","443","culunk.com,/bm","/common","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246","1359593325","32"
