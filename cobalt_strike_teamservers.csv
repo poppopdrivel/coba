@@ -1,4 +1,6 @@
 "host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
+"https://172.241.27.70:443","Found","True","443","scalewa.com,/sm.html","/mobile-android","Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; RM-1152) AppleWebKit/537.36 (KHTML, like Gecko)","1580103814","32"
+"https://74.118.138.139:443","Found","True","443","touchroof.com,/modcp,focuslex.com,/modcp","/posting","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36","1580103814","32"
 "https://176.123.8.228:443","Found","True","443","176.123.8.228,/__utm.gif","/___utm.gif","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; BO1IE8_v1;ENUS)","305419896","32"
 "https://45.142.214.107:443","Found","True","443","taekvondo.com,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","16777216","32"
 "https://5.39.221.60:443","Found","True","443","5.39.221.60,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books","/N4215/adj/amzn.us.sr.aps","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","305419896","32"
