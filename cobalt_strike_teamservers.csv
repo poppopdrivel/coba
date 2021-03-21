@@ -1,4 +1,7 @@
 host,result,ssl,port,.http-get.uri,.http-post.uri,.user-agent,.watermark,bits
+"https://198.252.99.93:4444","Found","True","4444","cdnsyndication.digital,/g/rfer=nmn_fr_gees_1/42-332638-0264389/field-keywords=toys,198.252.99.93,/g/rfer=nmn_fr_gees_1/42-332638-0264389/field-keywords=toys","/L2741/hojk/amzon.SX.90.sok","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2628.57 Safari/537.36","1580103814","32"
+"https://91.134.187.27:4444","Found","True","4444","cdnengine.biz,/oLP/,91.134.187.27,/oLP/","/OLLP/","Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2683.95 Safari/537.36","1580103814","32"
+"https://cdnengine.biz:4444","Found","True","4444","cdnengine.biz,/oLP/,91.134.187.27,/oLP/","/OLLP/","Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2683.95 Safari/537.36","1580103814","32"
 https://91.134.187.27:8888,Found,True,8888,"cdnengine.biz,/oLP/,91.134.187.27,/oLP/",/OLLP/,"Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2683.95 Safari/537.36",1580103814,32
 http://101.36.108.242:80,Found,FALSE,80,"172.19.178.93,/image/",/history/,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0),0,32
 http://101.36.117.17:80,Found,FALSE,80,"172.19.178.93,/image/",/history/,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0),0,32
