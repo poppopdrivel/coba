@@ -1,4 +1,12 @@
 host,result,ssl,port,.http-get.uri,.http-post.uri,.user-agent,.watermark,bits
+"http://108.61.186.172:8080","Found","False","8080","update-online.zevenet.art,/dot.gif,update.zevenet.art,/cx,software-update.zevenet.art,/IE9CompatViewList.xml","/submit.php","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)","0","32"
+"http://178.128.21.16:8080","Found","False","8080","178.128.21.16,/cm","/submit.php","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; WOW64; Trident/5.0)","1873433027","32"
+"http://217.12.201.102:8080","Found","False","8080","reboderia.online,/activity","/submit.php","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;PTBR)","16777216","32"
+"http://45.138.209.23:8080","Found","False","8080","45.138.209.23,/__utm.gif","/submit.php","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;PTBR)","305419896","32"
+"http://45.147.229.199:8080","Found","False","8080","45.147.229.199,/en-us/uhfLogo.jpg","/en-us/feedback","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; UHS)","305419896","32"
+"http://45.249.244.118:8080","Found","False","8080","45.249.244.118,/en_US/all.js","/submit.php","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)","305419896","32"
+"http://5.34.181.12:8080","Found","False","8080","5.34.181.12,/visit.js","/submit.php","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; WOW64; Trident/5.0)","305419896","32"
+"http://80.211.200.179:8080","Found","False","8080","192.168.161.128,/activity","/submit.php","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; Avant Browser)","443484108","32"
 "https://144.34.186.152:8443","Found","True","8443","144.34.186.152,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books","/N4215/adj/amzn.us.sr.aps","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","1873433027","32"
 "https://146.185.132.43:8443","Found","True","8443","146.185.132.43,/en_US/all.js","/submit.php","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; LBBROWSER)","910589518","32"
 "https://185.243.41.224:8443","Found","True","8443","185.243.41.224,/en_US/all.js","/submit.php","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)","305419896","32"
