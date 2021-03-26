@@ -1,4 +1,6 @@
 host,result,ssl,port,.http-get.uri,.http-post.uri,.user-agent,.watermark,bits
+"http://74.118.138.139:80","Found","False","80","touchroof.com,/modcp,focuslex.com,/modcp","/posting","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36","1580103814","32"
+"http://88.119.171.78:80","Found","False","80","104.28.13.169,/image/,172.67.184.242,/image/","/history/","Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0)","305419896","32"
 "https://74.118.138.139:443","Found","True","443","touchroof.com,/modcp,focuslex.com,/modcp","/posting","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36","1580103814","32"
 "https://100.24.56.227:443","Found","True","443","100.24.56.227,/bing","/search","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; MDDCJS)","836116121","32"
 "https://103.150.8.146:443","Found","True","443","103.150.8.146,/__utm.gif","/submit.php","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)","1873433027","32"
