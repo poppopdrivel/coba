@@ -1,4 +1,5 @@
 "host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
+"https://217.12.218.46:443","Found","True","443","1nevadasports.com,/preload","/sa","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","305419896","32"
 "https://185.82.219.249:443","Found","True","443","185.82.219.249,/dpixel","/submit.php","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; BOIE9;ENUS)","1359593325","32"
 "https://finishhimm.com:443","Found","True","443","finishhimm.com,/aa.html","/logo","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246","1580103814","32"
 "https://spotver.com:443","Found","True","443","spotver.com,/Forums.css","/rn","Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0","1580103814","32"
