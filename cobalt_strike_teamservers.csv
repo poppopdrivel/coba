@@ -1,4 +1,7 @@
 "host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
+"https://globalpressinfo.com:443","Found","True","443","globalpressinfo.com,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","1359593325","32"
+"host","result","ssl","port",".http-get.uri",".http-post.uri",".user-agent",".watermark","bits"
+"http://globalpressinfo.com:80","Found","False","80","185.82.219.249,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","1359593325","32"
 "https://176.9.44.139:443","Found","True","443","shopforenz.com,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","1359593325","32"
 "https://shopforenz.com:443","Found","True","443","shopforenz.com,/jquery-3.3.1.min.js","/jquery-3.3.2.min.js","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko","1359593325","32"
 "https://100.24.56.227:443","Found","True","443","100.24.56.227,/bing","/search","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; MDDCJS)","836116121","32"
